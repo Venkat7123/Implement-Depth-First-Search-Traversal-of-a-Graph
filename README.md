@@ -122,7 +122,8 @@ print("DFS Traversal Path:", traversedpath)
 <hr>
 <h3>Output:</h3>
 <hr>
-![image](https://github.com/user-attachments/assets/ed374d27-5822-4f26-ad77-c6b1affceb4e)
+
+![image](https://github.com/user-attachments/assets/2adab88c-f804-466e-b1cd-b110975cc497)
 
 
 <hr>
